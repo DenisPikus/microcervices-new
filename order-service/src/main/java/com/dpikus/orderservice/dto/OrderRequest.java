@@ -6,8 +6,6 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-import com.dpikus.orderservice.model.OrderLineItems;
-
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
